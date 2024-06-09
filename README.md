@@ -79,7 +79,8 @@ The visual summary above further reinforces the superiority of Adam as the optim
 # **Create a Web page for identify the image whether dog / cat**
 
 ![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/43f9fe6b-c2db-4e74-887b-607a3e7188d7)
-![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/6aee4ba2-a89c-401b-acc0-f058c7cac991)
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/665046cd-f9ef-4d7f-ab50-eee5fb9ba966)
+
 
 
 
