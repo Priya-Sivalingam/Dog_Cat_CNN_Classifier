@@ -32,8 +32,29 @@ from the specified directories for training and testing data
 
 ![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/c3744dad-128b-4bfb-9cad-17584cdc7d5c)
 
+# **Hyperparameter tunning**
+To Imporove Model we need to do **Hyperparameter tunning** with W&B
+
+- first setup the W&B 
+- Then set sweep configuartion
+- train the model again
+- find good parameter using W&B graphs
+  ![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/0363bcca-b6be-4459-b420-59eb0b110d5a)
+
+# **Try with different optimizers**
+- Based on the training results for each optimizer, we can compare their performance in terms of accuracy and loss for both training and validation datasets. Here is a summary of the final epoch results for each optimizer:
+  
+| Optimizer        | Training Loss | Training Accuracy | Validation Loss | Validation Accuracy |
+|------------------|---------------|-------------------|-----------------|---------------------|
+| SGD              | 0.6917        | 0.5642            | 0.6933          | 0.5000              |
+| SGD with Momentum| 0.6909        | 0.5312            | 0.6859          | 0.6081              |
+| RMSProp          | 0.4287        | 0.8212            | 0.4000          | 0.8514              |
+| Adagrad          | 0.3873        | 0.8420            | 0.3858          | 0.8243              |
+| Adam             | 0.0439        | 0.9931            | 0.0217          | 1.0000              |
 
 
 
+
+  
 
 
