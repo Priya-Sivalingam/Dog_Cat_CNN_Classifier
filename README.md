@@ -1,4 +1,4 @@
-![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/56aeaf3c-a4c5-42f5-9dff-e01f07f3508a)# Deep-Learning-Projects
+# Deep-Learning-Projects
 # **Introduction**
 This report outlines the process of building and tuning a Convolutional Neural Network (CNN) 
 classifier to distinguish between images of dogs and cats. The model was trained using TensorFlow 
