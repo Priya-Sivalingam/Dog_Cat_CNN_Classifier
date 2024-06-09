@@ -1,5 +1,5 @@
 # Deep-Learning-Projects
-3 **Introduction**
+# **Introduction**
 This report outlines the process of building and tuning a Convolutional Neural Network (CNN) 
 classifier to distinguish between images of dogs and cats. The model was trained using TensorFlow 
 and Keras, and hyperparameter tuning was performed using Weights & Biases (W&B) to optimize the 
@@ -9,3 +9,30 @@ The dataset used consists of images of dogs and cats, with separate directories 
 testing data. The data was loaded using TensorFlow's image_dataset_from_directory function.
 • Image Loading: The dataset is loaded using tf.keras.utils.image_dataset_from_directory
 from the specified directories for training and testing data
+
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/79ceeda0-2a09-45d2-879a-95dd60041783)
+
+# **Data Preprocessing**
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/d3b6aaf1-1561-4417-b59e-f799d80ec37e)
+
+# **Data Spliting**
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/6f150bec-6074-4c99-b56f-457e0231e8ce)
+
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/b87ac060-7467-4346-b6cf-fd52a9f86a33)
+
+# **Model Architecture**
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/fe1b7dc2-e742-4ff1-b35b-7af70a275550)
+
+# **Analysis**
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/08648a04-7dd5-40ca-bf6c-1f5eae373c13)
+
+# **Evaluation**
+
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/44835634-0d57-4970-a9ee-908743b99110)
+
+![Uploading image.png…]()
+
+
+
+
+
