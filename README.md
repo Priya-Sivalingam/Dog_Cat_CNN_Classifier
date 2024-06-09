@@ -30,7 +30,8 @@ from the specified directories for training and testing data
 
 ![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/44835634-0d57-4970-a9ee-908743b99110)
 
-![Uploading image.png…]()
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/c3744dad-128b-4bfb-9cad-17584cdc7d5c)
+
 
 
 
