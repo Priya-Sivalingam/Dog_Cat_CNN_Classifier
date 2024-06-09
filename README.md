@@ -1,4 +1,4 @@
-# Deep-Learning-Projects
+# DOG/CAT CNN CLASSIFIER WITH HYPERPARAMETER TUNING USING WEIGHTS & BIASES (W&B)
 # **Introduction**
 This report outlines the process of building and tuning a Convolutional Neural Network (CNN) 
 classifier to distinguish between images of dogs and cats. The model was trained using TensorFlow 
