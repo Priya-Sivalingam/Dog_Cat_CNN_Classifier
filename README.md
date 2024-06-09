@@ -1,4 +1,4 @@
-# Deep-Learning-Projects
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/56aeaf3c-a4c5-42f5-9dff-e01f07f3508a)# Deep-Learning-Projects
 # **Introduction**
 This report outlines the process of building and tuning a Convolutional Neural Network (CNN) 
 classifier to distinguish between images of dogs and cats. The model was trained using TensorFlow 
@@ -52,9 +52,36 @@ To Imporove Model we need to do **Hyperparameter tunning** with W&B
 | Adagrad          | 0.3873        | 0.8420            | 0.3858          | 0.8243              |
 | Adam             | 0.0439        | 0.9931            | 0.0217          | 1.0000              |
 
+# Conclusion
+
+Based on the results obtained from the hyperparameter tuning experiments, the Adam optimizer emerges as the most suitable choice for the task at hand. It consistently outperformed other optimizers in terms of both training and validation metrics, showcasing superior convergence properties and accuracy.
+
+## Optimizer Comparison Summary
+
+- **Training Accuracy Curves:** Adam demonstrated the fastest and highest increase in accuracy during training.
+- **Validation Accuracy Curves:** Adam consistently maintained the highest validation accuracy throughout the training process.
+- **Training Loss Curves:** Adam exhibited the fastest decrease in loss during training epochs.
+- **Validation Loss Curves:** Adam consistently maintained the lowest validation loss among all optimizers.
+
+Overall, Adam's adaptive learning rate and momentum combination make it exceptionally effective for training deep learning models, leading to improved performance and convergence.
+
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/a641dd91-bfd9-47a7-aa23-b9ebf7248489)
+
+The visual summary above further reinforces the superiority of Adam as the optimizer of choice for this task.
+
+# **Model Prediction**
+
+- using with hyperparameter and adam optimizer model was trained well and test the model test results shown below:
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/0bd2aced-3ec2-496f-b773-f6d1d76300f6)
+
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/4832f4f8-bdfe-42f3-bcef-0e3901aed0cb)
+
+# **Create a Web page for identify the image whether dog / cat**
+
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/43f9fe6b-c2db-4e74-887b-607a3e7188d7)
+![image](https://github.com/Priya-Sivalingam/Deep-Learning-Projects/assets/112175724/6aee4ba2-a89c-401b-acc0-f058c7cac991)
 
 
 
-  
 
 
